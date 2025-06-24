@@ -128,7 +128,7 @@ function App() {
         <p1 className='num'>{viewCount}</p1>
         <img src={pfp} className='pfp' alt="Profile Picture" />
         <div className='info' >
-          <h1 className='name'>qdtvent</h1>
+          <h1 className='name'>dqting</h1>
           <h1 className='bio'>{bio}</h1> {/* Bio with typewriter effect */}
         </div>
         <div className='links'>
