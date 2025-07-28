@@ -57,7 +57,7 @@ export default function DanielLarsonWebsite() {
                     className="bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 text-white font-bold py-3 px-6 rounded-full transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-purple-500/25 disabled:opacity-50 disabled:cursor-not-allowed"
                   >
                     <Eye className="w-5 h-5 mr-2" />
-                    {isLoading ? "Loading..." : "Click to view hei"}
+                    {isLoading ? "Loading..." : "Click to view D0X"}
                   </Button>
                 </div>
               </CardContent>
@@ -76,7 +76,7 @@ export default function DanielLarsonWebsite() {
               <CardContent className="p-0">
                 {/* Header */}
                 <div className="text-center p-6 border-b border-white/10">
-                  <h2 className="text-3xl font-bold rainbow-text mb-2">Daniel Larson hei 2025</h2>
+                  <h2 className="text-3xl font-bold rainbow-text mb-2">Daniel Larson D0X 2025</h2>
                   <div className="w-24 h-1 bg-gradient-to-r from-purple-500 to-pink-500 mx-auto rounded-full"></div>
                 </div>
 
